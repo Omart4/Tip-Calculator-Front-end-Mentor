@@ -75,7 +75,7 @@ function resetter(){
     tipPP.textContent = '$0'
     totalPP.textContent = '$0'
     bill.value = ''
-    persons.value = ''
+    persons.value = '1'
     customTip.value = ''
 }
 
